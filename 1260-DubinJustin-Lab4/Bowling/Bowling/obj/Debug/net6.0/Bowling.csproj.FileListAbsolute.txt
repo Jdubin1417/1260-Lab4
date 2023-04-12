@@ -1,0 +1,60 @@
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.csproj.AssemblyReference.cache
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.AssemblyInfoInputs.cache
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.AssemblyInfo.cs
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.csproj.CoreCompileInputs.cache
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/bin/Debug/net6.0/Bowling.exe
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/bin/Debug/net6.0/Bowling.deps.json
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/bin/Debug/net6.0/Bowling.runtimeconfig.json
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/bin/Debug/net6.0/Bowling.dll
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/bin/Debug/net6.0/Bowling.pdb
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.dll
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/refint/Bowling.dll
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.pdb
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.genruntimeconfig.cache
+C:/Users/DUBINJ/OneDrive - East Tennessee State University/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/ref/Bowling.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/bin/Debug/net6.0/Bowling
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/bin/Debug/net6.0/Bowling.deps.json
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/bin/Debug/net6.0/Bowling.runtimeconfig.json
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/bin/Debug/net6.0/Bowling.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/bin/Debug/net6.0/Bowling.pdb
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.csproj.AssemblyReference.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.AssemblyInfoInputs.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.AssemblyInfo.cs
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.csproj.CoreCompileInputs.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/refint/Bowling.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.pdb
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/Bowling.genruntimeconfig.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/Labs/1260-DubinJustin-Lab4/Bowling/Bowling/obj/Debug/net6.0/ref/Bowling.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\bin\Debug\net6.0\Bowling.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\bin\Debug\net6.0\Bowling.deps.json
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\bin\Debug\net6.0\Bowling.runtimeconfig.json
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\bin\Debug\net6.0\Bowling.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\bin\Debug\net6.0\Bowling.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.csproj.AssemblyReference.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.AssemblyInfoInputs.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.AssemblyInfo.cs
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.csproj.CoreCompileInputs.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\refint\Bowling.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.genruntimeconfig.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-EastTennesseeStateUniversity\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\ref\Bowling.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\bin\Debug\net6.0\Bowling.exe
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\bin\Debug\net6.0\Bowling.deps.json
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\bin\Debug\net6.0\Bowling.runtimeconfig.json
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\bin\Debug\net6.0\Bowling.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\bin\Debug\net6.0\Bowling.pdb
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.csproj.AssemblyReference.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.AssemblyInfoInputs.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.AssemblyInfo.cs
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\refint\Bowling.dll
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.pdb
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\Bowling.genruntimeconfig.cache
+C:\Users\itsmr\OneDrive - East Tennessee State University\Documents\ETSU\Fall 2022\CSCI 1260 001\Labs\1260-DubinJustin-Lab4\Bowling\Bowling\obj\Debug\net6.0\ref\Bowling.dll
